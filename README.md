@@ -11,5 +11,3 @@ These projects are not the first for me, but at least a little decent and made w
 Эти проекты не первые у меня, а хоть немного приличные и сделанные без сторонней помощи.
 
 
-https://kirill-us.github.io/Portfolio/
-https://kirill-us.github.io/Portfolio/

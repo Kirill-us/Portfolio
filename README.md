@@ -6,8 +6,8 @@ This project is not my first, but at least a little decent and done without outs
 
 Русский язык:
 
-Этот проект являются началом моего опыта в работе с языками программирования CSS, HTML и JavaScript.
+Этот проект является началом моего опыта в работе с языками программирования CSS, HTML и JavaScript.
 Он перенесен на языки с figma, которые я нашел на просторах интернета.
 Этот проект не первый у меня, а хоть немного приличные и сделанные без сторонней помощи.
 
-
+https://kirill-us.github.io/Portfolio/

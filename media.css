@@ -1,0 +1,48 @@
+@media (max-width: 1230px) {
+  .header_list {
+    display: none;
+  }
+
+  .btn2 {
+    display: none;
+  }
+
+  .main {
+    flex-direction: column;
+    row-gap: 20px;
+  }
+
+  .welcome_title {
+    margin-top: 22px;
+    font-size: 40px;
+  }
+
+  .dash {
+    margin-top: 65px;
+  }
+
+  /*! next section */
+
+  .list-food {
+    padding: 106px;
+  }
+
+  /*! next section */
+  .order_text {
+    text-align: center;
+  }
+
+  .order_img {
+    display: none;
+  }
+
+  /*! next section */
+  .feedback {
+    padding: 20px 100px;
+  }
+
+  /*! next section */
+  .download-menu_title {
+    font-size: 36px;
+    margin-bottom: 36px;
+  }
